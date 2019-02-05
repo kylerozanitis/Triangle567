@@ -1,6 +1,8 @@
 # Triangle567
 -------------
 
+[![build status of master](https://travis-ci.org/kylerozanitis/Triangle567.svg?branch=master)](https://travis-ci.org/tsmith567/Triangle567)
+
 ### This repo contains the homework assignment HW 02: Testing a legacy program and reporting on testing results ###
 
 Sometimes you will be given a program that someone else has written, and you will be asked to fix, update and enhance that program.   In this assignment you will start with an existing implementation of the classify triangle program that will be given to you.   You will also be given a starter test program that tests the classify triangle program, but those tests are not complete.  
